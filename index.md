@@ -2,7 +2,7 @@
 
 Have a look at my [other page](test.md).
 
-<img align="right" src="LFM3d.png"/>
+<img align="right" src="LFM3d.jpg"/>
   
 <h1>Tom Nye</h1>
 
