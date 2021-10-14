@@ -1,21 +1,11 @@
-## Tom Nye - Senior Lecturer and Director of Statistics
+## Tom Nye 
 
 Have a look at my [other page](test.md).
 
-<table>
-<tr>
-<td align ="center">
-Tom Nye
-<br> <a href="http://www.ncl.ac.uk/maths/">School of Mathematics, Statistics and Physics</a>
-<br> Herschel Building
-<br> <a href="http://www.ncl.ac.uk">Newcastle University</a>
-<br> Newcastle upon Tyne
-<br> NE1 7RU
-<br><br> Tom.Nye -at- ncl.ac.uk
-<br> (+44) 191 208 5369
-</td>
-<td>
-<img src="LFM3d.png" border="1">
-</td>
-</tr>
-</table>
+<img align="right" src="LFM3d.png"/>
+  
+<h1>Tom Nye</h1>
+
+<h4>Senior Lecturer and Director of Statistics at Newcastle University</h4>
+
+
