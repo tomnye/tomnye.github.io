@@ -2,7 +2,7 @@
 
 ## Tom Nye 
 
-<img align="right" class="responsive-image" src="LFM3d.png"/>
+<img style="float: right; margin: 0px 0px 15px 15px;" class="responsive-image" src="LFM3d.png"/>
   
 #### Senior Lecturer and Director of Statistics at Newcastle University
 
