@@ -2,7 +2,7 @@
 
 Have a look at my [other page](test.md).
 
-<table cellspacing="10" cellpadding="0" width=100%>
+<table>
 <tr>
 <td align ="center">
 Tom Nye
