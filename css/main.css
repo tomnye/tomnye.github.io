@@ -7,3 +7,7 @@ body
   height: auto;
   width: 30%;
 }
+
+header { border-bottom: 1px solid #000; }
+header > h2 { display: inline-block; }
+header span { margin-left: 100px; }
