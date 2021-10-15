@@ -8,6 +8,10 @@ body
   width: 30%;
 }
 
-header { border-bottom: 1px solid #000; }
-header > h2 { display: inline-block; }
-header span { margin-left: 100px; }
+header {
+  display: flex;
+  align-items: baseline;
+
+  border-bottom: 1px solid #000;
+  padding: 10px 30px;
+}
