@@ -2,7 +2,7 @@
 <meta name="keywords" content="Tom Nye; probability; statistics; Newcastle; geometry; phylogenetics; phylogenetic tree;">
 
 <header>
-  <h2>Text</h2>
+  <h2>Tom Nye</h2>
   <span>home :: code :: group</span>
 </header>
   
