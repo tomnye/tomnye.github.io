@@ -1,13 +1,10 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 <meta name="keywords" content="Tom Nye; probability; statistics; Newcastle; geometry; phylogenetics; phylogenetic tree;">
 
-<div class="topnav">
-  <a class="active" href="index.md">Home</a>
-  <a href="code.md">Code</a>
-  <a href="group.md">Group</a>
-</div>
-
-## Tom Nye
+<header>
+  <h2>Text</h2>
+  <span>home :: code :: group</span>
+</header>
   
 #### Senior Lecturer and Director of Statistics at Newcastle University
 
