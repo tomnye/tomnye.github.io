@@ -10,17 +10,18 @@
 
 ## Tom Nye
   
-### Senior Lecturer and Director of Statistics at Newcastle University
+#### Senior Lecturer and Director of Statistics at Newcastle University
 
 <img align="right" class="responsive-image" src="portrait3.jpg"/>
 
 #### Contact
 
-Email: [tom.nye@ncl.ac.uk](mailto:tom.nye@ncl.ac.uk)
-Phone: +44 (0)191 2085369
+Email: [tom.nye@ncl.ac.uk](mailto:tom.nye@ncl.ac.uk)  
+Phone: +44 (0)191 2085369  
 
-[School of Mathematics, Statistics and Physics](http://www.ncl.ac.uk/maths/)
-[Newcastle University](http://www.ncl.ac.uk/)
-Newcastle upon Tyne
-NE1 7RU
+[School of Mathematics, Statistics and Physics](http://www.ncl.ac.uk/maths/)  
+Herschel Building  
+[Newcastle University](http://www.ncl.ac.uk/)  
+Newcastle upon Tyne  
+NE1 7RU  
 
