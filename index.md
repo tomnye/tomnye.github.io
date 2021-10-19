@@ -2,7 +2,6 @@
 <meta name="keywords" content="Tom Nye; probability; statistics; Newcastle; geometry; phylogenetics; phylogenetic tree;">
 
 <ul>
-  <li><a href="#home"></a></li>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Code</a></li>
   <li><a href="#contact">Group</a></li>
@@ -16,4 +15,3 @@
 
 Have a look at my [other page](test.md).
 
-Check
