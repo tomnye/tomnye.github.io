@@ -5,14 +5,11 @@
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Code</a></li>
   <li><a href="#contact">Group</a></li>
-  <li><a href="#about">Contact</a></li>
 </ul>
 
 ## Tom Nye
   
 #### Senior Lecturer and Director of Statistics at Newcastle University
-
-
 
 <img align="right" class="responsive-image" src="portrait3.jpg"/>
 
