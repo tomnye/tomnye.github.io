@@ -2,6 +2,7 @@
 <meta name="keywords" content="Tom Nye; probability; statistics; Newcastle; geometry; phylogenetics; phylogenetic tree;">
 
 <ul>
+  <li style="display:none;"></li>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Code</a></li>
   <li><a href="#contact">Group</a></li>
