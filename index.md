@@ -22,6 +22,10 @@ For details about my teaching, Newcastle students should visit [canvas](https://
 
 #### Research interests
 
+#### Publications
+
+Details of my publications are on [Google scholar](https://scholar.google.com/citations?user=IFu7XnQAAAAJ&hl=en).
+
 #### Background
 
 #### Contact
