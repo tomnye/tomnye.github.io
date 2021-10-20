@@ -1,12 +1,15 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 <meta name="keywords" content="Tom Nye; probability; statistics; Newcastle; geometry; phylogenetics; phylogenetic tree;">
 
+<div class="topnav">
 <ul>
   <li style="display:none;"></li>
   <li><a href="index.md">Home</a></li>
   <li><a href="code.md">Code</a></li>
   <li><a href="group.md">Group</a></li>
 </ul>
+</div>
+
 
 ## Tom Nye
   
@@ -38,4 +41,6 @@ Herschel Building
 [Newcastle University](http://www.ncl.ac.uk/)  
 Newcastle upon Tyne  
 NE1 7RU  
+
+check
 
