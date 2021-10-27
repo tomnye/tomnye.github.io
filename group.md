@@ -28,3 +28,9 @@ I also act as second supervisor for two students in neuroscience:
 
 * **Charlotte Flaws**: Statistical analysis of anatomical trees in the [BraVa dataset](http://cng.gmu.edu/brava/all_subjects.php?clear=1) of brain artery trees.
 * **Kate Walshaw**: Statistics in metric spaces of graphs. 
+
+#### Prospective PhD students
+
+I encourage prospective PhD students to email me about possible projects. 
+If you do this, it's a good idea to look at my research interests and papers so you have a good idea about the areas you might work on. 
+For example, I do not supervise projects on Euclidean time series or econometrics, despite receiving many emails along these lines. 
