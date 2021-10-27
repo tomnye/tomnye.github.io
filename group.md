@@ -4,9 +4,9 @@
 <div class="topnav">
 <ul>
   <li style="display:none;"></li>
-  <li><a href="index.md">Home</a></li>
-  <li><a href="code.md">Code</a></li>
-  <li><a href="group.md">Group</a></li>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="code.html">Code</a></li>
+  <li><a href="group.html">Group</a></li>
 </ul>
 </div>
 
