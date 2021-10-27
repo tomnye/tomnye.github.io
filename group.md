@@ -24,7 +24,7 @@ I also act as second supervisor for two students in neuroscience:
 * **[Tom Owen](https://www.ncl.ac.uk/bigdata/people/people/owentom.html)**
 * **[Jonathan Horsely](https://www.ncl.ac.uk/bigdata/people/people/horsleyjonathan.html)**
 
-#### project students
+#### Project students
 
 * **Charlotte Flaws**: Statistical analysis of anatomical trees in the [BraVa dataset](http://cng.gmu.edu/brava/all_subjects.php?clear=1) of brain artery trees.
 * **Kate Walshaw**: Statistics in metric spaces of graphs. 
