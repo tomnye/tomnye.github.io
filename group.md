@@ -18,7 +18,7 @@
 * **Will Woodman**: Will is working on inference for Brownian motion on BHV tree space.
 * **Alex Butryn**: Supported by a Leverhulme grant joint with [Martin Smith](https://smithlabdurham.github.io/) at Durham University, Alex works on inferring phylogenies from morphological data. 
 * **Tao Ding**: Tao's project involves developing methods to analyse time series on Riemannian manifolds with applications to neuroscience. This project is a collaboration with [Yujiang Wang](https://www.ncl.ac.uk/computing/staff/profile/yujiangwang.html) from the [computational neuroscience lab](https://sites.google.com/view/cnnp-lab/) at Newcastle. 
-* **Jinzhoa Liu**: Jinzhoa's project is on functional data analysis on manifolds. 
+* **Jinzhao Liu**: Jinzhao's project is on functional data analysis on manifolds. 
 
 I also act as second supervisor for two students in neuroscience:
 * **[Tom Owen](https://www.ncl.ac.uk/bigdata/people/people/owentom.html)**
