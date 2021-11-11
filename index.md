@@ -43,7 +43,7 @@ I have developed methods for fitting [principal geodesics](https://scholar.googl
 **Stochastic processes in BHV tree space:** I have established the fundamental theory of [Brownian motion](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IFu7XnQAAAAJ&pagesize=80&citation_for_view=IFu7XnQAAAAJ:qUcmZB5y_30C) in BHV tree space, and I am developing inference methods for fitting these to data with a current PhD student. 
 
 **Information geometry for phylogenetic trees:** In collaboration with researchers at Gottingen University, Germany, I have recently developed a new space of phylogenetic trees in which the metric measures the distance between trees in terms of similarity of the distributions on genetic sequences induced by the trees. 
-Called [wald space](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IFu7XnQAAAAJ&pagesize=80&citation_for_view=IFu7XnQAAAAJ:TQgYirikUcIC), there are still many unanswered mathematical questions, and great potential for developing statistical methods in this space. 
+Called [wald space](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IFu7XnQAAAAJ&pagesize=80&citation_for_view=IFu7XnQAAAAJ:TQgYirikUcIC), there are still many unanswered mathematical questions, and there's great potential for developing statistical methods in this space. 
 
 **Non-Euclidean statistics in computational neuroscience:** I collaborate with the [computational neuroscience lab](https://sites.google.com/view/cnnp-lab/) at Newcastle and co-supervise a number of students in this area. 
 
