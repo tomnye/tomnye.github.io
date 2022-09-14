@@ -12,13 +12,10 @@
 
 
 ## Tom Nye
-  
-#### Senior Lecturer and Director of Statistics at Newcastle University
 
 <img align="right" class="responsive-image" src="portrait3.jpg"/>
 
 I am a Senior Lecturer in statistics in the [School of Mathematics, Statistics and Physics](http://www.ncl.ac.uk/maths/) at [Newcastle University](http://www.ncl.ac.uk/). 
-I act as the Director of Statistics with overall responsibility for research and teaching of statistics within the School. 
 
 These pages describe my research interests, my research group and software projects. 
 For details about my teaching, Newcastle students should visit [canvas](https://canvas.ncl.ac.uk/). 
