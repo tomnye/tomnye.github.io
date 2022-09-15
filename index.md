@@ -52,7 +52,7 @@ Details of my publications are on [Google scholar](https://scholar.google.com/ci
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-My [PhD](http://arxiv.org/abs/hep-th/0311215) was in pure mathematics (specifically gauge theory and global analysis); a significant output was the proof of the "Nye-Singer index theorem" for Dirac operators on $S^1\times \mathbb{R}^3$. 
+My [PhD](http://arxiv.org/abs/hep-th/0311215) was in pure mathematics (specifically gauge theory and global analysis); a significant output was the proof of the "[Nye-Singer index theorem](https://arxiv.org/abs/math/0009144)" for Dirac operators on $S^1\times \mathbb{R}^3$. 
 After that I worked in industry as a mathematical consultant for a couple of years. 
 I returned to academia with a postdoc position at the [MRC Biostatistics Unit](http://www.mrc-bsu.cam.ac.uk) working on problems in statistical bioinformatics. 
 I started my lectureship at Newcastle in January 2006. 
