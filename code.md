@@ -20,7 +20,7 @@ Instructions for running the software will be given for each project -- [email m
 ### GATSby (Geometry and Analysis in Tree Space)
 
 [GATSby](https://github.com/tomnye/GATSby) is required to run all my other software. 
-I provides a very wide variety of structures and methods for phylogenetic trees. 
+It provides a very wide variety of structures and methods for phylogenetic trees. 
 Most importantly, it combines representations of trees as (a) graph structures (sets of vertices and edges) and (b) as weighted sets of compatible splits. 
 The former representation allows efficient representation of Markov substitutions on trees and associated probability calculations (simulating alignments, calculating likelihoods); 
 the latter representation is the best for analysis of trees in Billera-Holmes-Vogtmann (BHV) tree space. 
@@ -49,12 +49,12 @@ In order to run the executable, you need to download the Compare2Trees jar files
 It provides methodology associated with three of my publications for tree space PCA:
 
 * [Principal components analysis in the space of phylogenetic trees](https://projecteuclid.org/journals/annals-of-statistics/volume-39/issue-5/Principal-components-analysis-in-the-space-of-phylogenetic-trees/10.1214/11-AOS915.pdf), Annals of Statistics, 2011;
-* [An Algorithm for Constructing Principal Geodesics in Phylogenetic Treespace](https://ieeexplore.ieee.org/abstract/document/6755452), IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2014; and
+* [An algorithm for constructing principal geodesics in phylogenetic treespace](https://ieeexplore.ieee.org/abstract/document/6755452), IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2014; and
 * [Principal component analysis and the locus of the Fréchet mean in the space of phylogenetic trees](https://academic.oup.com/biomet/article/104/4/901/4259146), Biometrika, 2017.
 
 
 ### ProbDist
 
 [ProbDist](https://github.com/tomnye/ProbDist) uses simulation methods to compute probabilistic distances between phylogenetic trees. 
-It provides methodology associated with my paper [Probabilistic Distances Between Trees](https://academic.oup.com/sysbio/article/67/2/320/4344841?login=false), Systematic Biology, 2018.
+It provides methodology associated with my paper on [probabilistic distances between trees](https://academic.oup.com/sysbio/article/67/2/320/4344841?login=false), Systematic Biology, 2018.
 
