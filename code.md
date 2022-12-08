@@ -23,7 +23,7 @@ Instructions for running the software will be given for each project -- [email m
 I provides a very wide variety of structures and methods for phylogenetic trees. 
 Most importantly, it combines representations of trees as (a) graph structures (sets of vertices and edges) and (b) as weighted sets of compatible splits. 
 The former representation allows efficient representation of Markov substitutions on trees and associated probability calculations (simulating alignments, calculating likelihoods); 
-the latter representation is the best for analysis of trees in Billera-Holmes-Vogtmann tree space. 
+the latter representation is the best for analysis of trees in Billera-Holmes-Vogtmann (BHV) tree space. 
 The libraries include methods to swap between these representations. 
 It is possibly unique in proividing this combination of representations. 
 Features include:
@@ -34,3 +34,27 @@ Features include:
 * simulation of alignments and likelihood calculation given an alignment;
 * topological operations on trees (e.g. subtree-prune-and-regraft); and
 * basic graphics for drawing rooted and unrooted trees.
+
+
+### Compare2Trees
+
+[Compare2Trees](https://github.com/tomnye/Compare2Trees) is a popular program for comparing phylogenetic trees. 
+It is showing its age now as it was [first published](https://academic.oup.com/bioinformatics/article/22/1/117/217975) in 2006. 
+In order to run the executable, you need to download the Compare2Trees jar files and those for GATSby. 
+
+
+### GeoPhytter
+
+[GeoPhytter](https://github.com/tomnye/GeoPhytter) fits geodesics and higher-dimensional surfaces to data in BHV tree space. 
+It provides methodology associated with three of my publications for tree space PCA:
+
+* [Principal components analysis in the space of phylogenetic trees](https://projecteuclid.org/journals/annals-of-statistics/volume-39/issue-5/Principal-components-analysis-in-the-space-of-phylogenetic-trees/10.1214/11-AOS915.pdf), Annals of Statistics, 2011;
+* [An Algorithm for Constructing Principal Geodesics in Phylogenetic Treespace](https://ieeexplore.ieee.org/abstract/document/6755452), IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2014; and
+* [Principal component analysis and the locus of the Fréchet mean in the space of phylogenetic trees](https://academic.oup.com/biomet/article/104/4/901/4259146), Biometrika, 2017.
+
+
+### ProbDist
+
+[ProbDist](https://github.com/tomnye/ProbDist) uses simulation methods to compute probabilistic distances between phylogenetic trees. 
+It provides methodology associated with my paper [Probabilistic Distances Between Trees](https://academic.oup.com/sysbio/article/67/2/320/4344841?login=false), Systematic Biology, 2018.
+
