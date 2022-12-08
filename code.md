@@ -19,7 +19,7 @@ Instructions for running the software will be given for each project -- [email m
 
 ### GATSby (Geometry and Analysis in Tree Space)
 
-[GATSby]([http://www.ncl.ac.uk/maths/](https://github.com/tomnye/GATSby)) is required to run all my other software. 
+[GATSby](https://github.com/tomnye/GATSby) is required to run all my other software. 
 I provides a very wide variety of structures and methods for phylogenetic trees. 
 Most importantly, it combines representations of trees as (a) graph structures (sets of vertices and edges) and (b) as weighted sets of compatible splits. 
 The former representation allows efficient representation of Markov substitutions on trees and associated probability calculations (simulating alignments, calculating likelihoods); 
