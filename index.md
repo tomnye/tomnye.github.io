@@ -13,7 +13,7 @@
 
 ## Tom Nye
 
-<img align="right" class="responsive-image" src="port4-small.jpg"/>
+<img align="right" class="responsive-image" src="port5.jpg"/>
 
 I am a Senior Lecturer in statistics in the [School of Mathematics, Statistics and Physics](http://www.ncl.ac.uk/maths/) at [Newcastle University](http://www.ncl.ac.uk/). 
 
